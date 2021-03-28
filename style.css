@@ -1,0 +1,58 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+.sectionLight{
+    background-color: #eceeef;
+    padding: 2em;
+}
+.img-fluid{
+    height: 40%;
+    margin-left: 20%;
+}
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2rem;
+    height: 50%;
+}
+
+button.coolstuffbtn{
+background-color: red;
+color: blanchedalmond;
+margin-left: 40%;
+display: block;
+margin: auto;
+}
+h5.modal-title{
+    margin: auto;
+}
+
+.formwrapper{
+padding: 2rem;
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+}
+.btncenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+.footerimg{
+    padding: 10px;
+}
+.bg-inverse.footerbg{
+    background-color: rgb(238, 246, 247);
+   
+}
+.fa{
+    margin: 10px;
+}
+
+.instafb{
+    height: 10%;
+    margin-top: 2%;
+}
